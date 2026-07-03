@@ -151,3 +151,19 @@ span {
       margin-top: 20px;
       color: #000000;
    }
+   .fotter{
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 110px;
+
+   }
+   .fot {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-size: 20px;
+      
+   }
+
